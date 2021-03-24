@@ -6,3 +6,4 @@
 
 开发库：Qt5.12.4，opencv3.2.0(x64)
 
+![VideoEditor-GUI](./doc/img/gui.png)
