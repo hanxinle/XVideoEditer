@@ -1,7 +1,7 @@
 /********************************************************************************
 ** Form generated from reading UI file 'XVideoEditor.ui'
 **
-** Created by: Qt User Interface Compiler version 5.12.4
+** Created by: Qt User Interface Compiler version 5.14.2
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
 ********************************************************************************/
@@ -127,24 +127,24 @@ public:
 
     void retranslateUi(QWidget *XVideoEditorClass)
     {
-        XVideoEditorClass->setWindowTitle(QApplication::translate("XVideoEditorClass", "XVideoEditor", nullptr));
-        openButton->setText(QApplication::translate("XVideoEditorClass", "\346\211\223\345\274\200\350\247\206\351\242\221", nullptr));
-        label->setText(QApplication::translate("XVideoEditorClass", "\344\272\256\345\272\246", nullptr));
-        label_2->setText(QApplication::translate("XVideoEditorClass", "\345\257\271\346\257\224\345\272\246", nullptr));
-        setButton->setText(QApplication::translate("XVideoEditorClass", "\345\272\224\347\224\250\345\217\263\344\276\247\350\256\276\347\275\256", nullptr));
-        label_3->setText(QApplication::translate("XVideoEditorClass", "\345\233\276\345\203\217\346\227\213\350\275\254", nullptr));
-        label_4->setText(QApplication::translate("XVideoEditorClass", "\345\233\276\345\203\217\351\225\234\345\203\217", nullptr));
-        rotateBox->setItemText(0, QApplication::translate("XVideoEditorClass", "0", nullptr));
-        rotateBox->setItemText(1, QApplication::translate("XVideoEditorClass", "90\302\260", nullptr));
-        rotateBox->setItemText(2, QApplication::translate("XVideoEditorClass", "180\302\260", nullptr));
-        rotateBox->setItemText(3, QApplication::translate("XVideoEditorClass", "270\302\260", nullptr));
+        XVideoEditorClass->setWindowTitle(QCoreApplication::translate("XVideoEditorClass", "XVideoEditor", nullptr));
+        openButton->setText(QCoreApplication::translate("XVideoEditorClass", "\346\211\223\345\274\200\350\247\206\351\242\221", nullptr));
+        label->setText(QCoreApplication::translate("XVideoEditorClass", "\344\272\256\345\272\246", nullptr));
+        label_2->setText(QCoreApplication::translate("XVideoEditorClass", "\345\257\271\346\257\224\345\272\246", nullptr));
+        setButton->setText(QCoreApplication::translate("XVideoEditorClass", "\345\272\224\347\224\250\345\217\263\344\276\247\350\256\276\347\275\256", nullptr));
+        label_3->setText(QCoreApplication::translate("XVideoEditorClass", "\345\233\276\345\203\217\346\227\213\350\275\254", nullptr));
+        label_4->setText(QCoreApplication::translate("XVideoEditorClass", "\345\233\276\345\203\217\351\225\234\345\203\217", nullptr));
+        rotateBox->setItemText(0, QCoreApplication::translate("XVideoEditorClass", "0", nullptr));
+        rotateBox->setItemText(1, QCoreApplication::translate("XVideoEditorClass", "90\302\260", nullptr));
+        rotateBox->setItemText(2, QCoreApplication::translate("XVideoEditorClass", "180\302\260", nullptr));
+        rotateBox->setItemText(3, QCoreApplication::translate("XVideoEditorClass", "270\302\260", nullptr));
 
-        flipBox->setItemText(0, QApplication::translate("XVideoEditorClass", "\344\270\215\346\224\271\345\217\230", nullptr));
-        flipBox->setItemText(1, QApplication::translate("XVideoEditorClass", "\344\270\212\344\270\213", nullptr));
-        flipBox->setItemText(2, QApplication::translate("XVideoEditorClass", "\345\267\246\345\217\263", nullptr));
-        flipBox->setItemText(3, QApplication::translate("XVideoEditorClass", "\344\270\212\344\270\213\345\222\214\345\267\246\345\217\263", nullptr));
+        flipBox->setItemText(0, QCoreApplication::translate("XVideoEditorClass", "\344\270\215\346\224\271\345\217\230", nullptr));
+        flipBox->setItemText(1, QCoreApplication::translate("XVideoEditorClass", "\344\270\212\344\270\213", nullptr));
+        flipBox->setItemText(2, QCoreApplication::translate("XVideoEditorClass", "\345\267\246\345\217\263", nullptr));
+        flipBox->setItemText(3, QCoreApplication::translate("XVideoEditorClass", "\344\270\212\344\270\213\345\222\214\345\267\246\345\217\263", nullptr));
 
-        label_5->setText(QApplication::translate("XVideoEditorClass", "\345\233\276\345\203\217\345\260\272\345\257\270\357\274\210\345\256\275\357\274\214\351\253\230\357\274\211", nullptr));
+        label_5->setText(QCoreApplication::translate("XVideoEditorClass", "\345\233\276\345\203\217\345\260\272\345\257\270\357\274\210\345\256\275\357\274\214\351\253\230\357\274\211", nullptr));
     } // retranslateUi
 
 };
